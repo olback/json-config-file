@@ -1,6 +1,6 @@
 {
   "name": "json-config-file",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Load read/write settings from json files",
   "repository": {
     "type": "git",
