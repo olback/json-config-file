@@ -1,0 +1,32 @@
+{
+  "name": "json-config-file",
+  "version": "1.0.1",
+  "description": "Load read/write settings from json files",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olback/json-config-file.git"
+  },
+  "main": "index.js",
+  "types": "./out/index.d.ts",
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -p ./ --watch"
+  },
+  "keywords": [
+    "json",
+    "easy",
+    "simple",
+    "config",
+    "settings"
+  ],
+  "author": {
+    "name": "olback",
+    "url": "https://olback.net",
+    "email": "json-config-file@olback.net"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.5.8",
+    "typescript": "^3.0.1"
+  }
+}
